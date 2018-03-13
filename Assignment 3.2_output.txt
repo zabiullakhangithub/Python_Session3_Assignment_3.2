@@ -1,0 +1,14 @@
+Python 3.6.4 |Anaconda, Inc.| (default, Jan 16 2018, 10:21:59) [MSC v.1900 32 bit (Intel)]
+Type "copyright", "credits" or "license" for more information.
+
+IPython 6.2.1 -- An enhanced Interactive Python.
+
+runfile('C:/Users/zabiulla.khan/Assignments/Assignment 3.2.py', wdir='C:/Users/zabiulla.khan/Assignments')
+Americans Play Baseball.
+Americans Play Cricket.
+Americans watch Baseball.
+Americans watch Cricket.
+Indians Play Baseball.
+Indians Play Cricket.
+Indians watch Baseball.
+Indians watch Cricket.
